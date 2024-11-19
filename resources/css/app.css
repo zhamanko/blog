@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Nuosu+SIL&family=Roboto+Slab&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.roboto-slab {
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .nuosu-sil-regular {
+    font-family: "Nuosu SIL", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
